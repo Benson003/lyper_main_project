@@ -1,0 +1,6 @@
+[submodule "lyper_backend"]
+	path = lyper_backend
+	url = .\\lyper_backend\\
+[submodule "lyper_frontend"]
+	path = lyper_frontend
+	url = .\\lyper_frontend\\
