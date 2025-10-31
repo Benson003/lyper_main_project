@@ -1,6 +1,6 @@
 [submodule "lyper_backend"]
 	path = lyper_backend
-	url = .\\lyper_backend\\
+	url = https://github.com/Benson003/lyper_backend.git
 [submodule "lyper_frontend"]
 	path = lyper_frontend
-	url = .\\lyper_frontend\\
+	url = https://github.com/Benson003/lyper_frontend.git
