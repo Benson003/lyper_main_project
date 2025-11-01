@@ -11,12 +11,10 @@ main/
 |
 |-docs/
 |-lyper_frontend/
-|  |
 |  |--docs/
 |  |_-README.md
 |
 |-lyper_backend/
-|  |
 |  |--docs/
 |  |_-README.md
 |
